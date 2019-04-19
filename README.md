@@ -25,7 +25,7 @@ sudo apt-get install libgl1-mesa-dev libglu1-mesa-dev freeglut3-dev
 git clone https://github.com/pitzer/SiftGPU.git
 cd SiftGPU
 ```
-Or you can download the project on [author's page](http://www.cs.unc.edu/~ccwu/siftgpu/). But this link sames to be loss.
+Or you can download the project on [author's page](http://www.cs.unc.edu/~ccwu/siftgpu/). But this link sames to be lost.
 
 ### Download and install Glew
 
