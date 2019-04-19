@@ -1,4 +1,4 @@
-# SiftGPU -- Compile and Usage
+# SiftGPU -- Compile and Use
 
 ## Requirements
 
