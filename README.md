@@ -36,9 +36,9 @@ Please choose the version of 1.13.0, whatever ``.zip`` or ``.tgz`` file format, 
 sudo make
 sudo make install
 ```
-This will produce a  ``lib`` file named ``libGLEW.so.1.13`` in the directory ``bin``, and then
+This will produce a  ``lib`` file named ``libGLEW.so.1.13`` in the directory ``lib``, and then
 ```bash
-sudo cp bin/libGLEW.so.1.13 /usr/lib64/
+sudo cp lib/libGLEW.so.1.13 /usr/lib64/
 sudo ldconfig /usr/lib64/
 ```
 
